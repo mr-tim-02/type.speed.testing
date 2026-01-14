@@ -1,0 +1,7 @@
+body{
+    margin: auto;
+    padding: 50px;
+    background-image: linear-gradient(to right, red, yellow);
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
